@@ -1,0 +1,11 @@
+[
+  {
+    "id": "AutheoTestnet-785",
+    "displayName": "Autheo Testnet",
+    "network_name": "AutheoTestnet",
+    "rpc_url": "https://testnet-rpc1.autheo.com",
+    "chain_id": 785,
+    "explorer_url": "https://testnet-explorer.autheo.com",
+    "evm_version": "shanghai"
+  }
+]
